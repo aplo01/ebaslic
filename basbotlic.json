@@ -1,0 +1,22 @@
+[
+    {        
+        "activated_device_uuid": "17F217A0-D760-53CC-A3DC-E64C3ACDC374",
+        "status": "VALID",
+        "expiry_date": "2029-12-31 12:59:59"
+    },
+    {
+        "activated_device_uuid": "9E448576-A2FC-891E-FEB7-7C10C9A04073",
+        "status": "VALID",
+        "expiry_date": "2029-01-01 00:00:00"
+    },
+    {
+        "activated_device_uuid": "RE090C4C-319B-11B2-A85C-CD74213381A8",
+        "status": "VALID",
+        "expiry_date": "2025-12-31 12:59:59"
+    },
+        {
+        "activated_device_uuid": "9E448576-A2FC-891E-FEB7-7C10C9A04073",
+        "status": "VALID",
+        "expiry_date": "2025-12-31 12:59:59"
+        }
+]
